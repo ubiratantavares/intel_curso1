@@ -67,3 +67,63 @@ Ao final deste curso, os alunos terão conhecimento prático de:
 * Incorporando cálculos estatísticos
 
 * Plotagem estatística com Seaborn
+
+### Semana 2 - Introdução ao Aprendizado Supervisionado
+
+* Objetivos do aprendizado
+
+_ Explicar a aprendizagem supervisionada e como ela pode ser aplicada a problemas de regressão e classificação
+
+_ Aplicar o algoritmo K-Nearest Neighbor (KNN) para classificação
+
+* O que é aprendizado de máquina?
+
+* Aprendizado de máquina em nossas vidas diárias
+
+* Tipos de aprendizado de máquina
+
+* Tipos de aprendizado supervisionado
+
+* Visão geral da aprendizagem supervisionada
+
+* Regressão: Respostas Numéricas
+
+* Classificação: Respostas Categóricas
+
+* Vocabulário de aprendizado de máquina
+
+* K – Nearest Neighbors
+
+_ O que é classificação?
+
+_ O que é necessário para classificação?
+
+_ Classificação K dos vizinhos mais próximos
+
+_ O que é necessário para selecionar um modelo KNN?
+
+_ Limite de decisão dos vizinhos mais próximos K
+
+_ O valor de 'K' afeta o limite de decisão
+
+_ Medição de distância em KNN
+
+_ Distância euclidiana
+
+_ Distância Euclidiana (Distância L2)
+
+_ Distância de Manhattan (L1 ou distância do quarteirão)
+
+_ A escala é importante para medição de distância
+
+_ Comparação de métodos de dimensionamento de recursos
+
+_ Dimensionamento de recursos: a sintaxe
+
+_ Limite de decisão KNN multiclasse
+
+_ Regressão com KNN
+
+_ Características de um modelo KNN
+
+_ K vizinhos mais próximos: a sintaxe
