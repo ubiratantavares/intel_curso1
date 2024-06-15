@@ -75,7 +75,7 @@ print(activity_df.Walking)
 print(activity_df.iloc[:,0])
 
 
-data_path = ['week1/data']
+data_path = ['data']
 
 # the location of the data file
 filepath = os.sep.join(data_path + ['Iris_Data.csv'])
